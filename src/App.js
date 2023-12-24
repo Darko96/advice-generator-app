@@ -33,7 +33,7 @@ function App() {
   return (
     <main>
       <div className="container">
-        <h1 className="heading">Advice {id}</h1>
+        <h1 className="heading">Advice #{id}</h1>
 
         {quote ? <p className="quote">{quote}</p> : <p></p>}
 
