@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Darko96/calculator]
-- Live Site URL: [https://darko96.github.io/calculator/]
+- Solution URL: [https://advice-generator-app-deploy.netlify.app/]
+- Live Site URL: [https://github.com/Darko96/advice-generator-app]
 
 ## My process
 
